@@ -1,2 +1,5 @@
 # Faiz-First-repo
-This is my first ever Repository
+This is my first-ever Repository
+<br>
+Author : Faiz Ul Karim Siddiqui
+
